@@ -17,3 +17,18 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+yearly-review:
+  label: Yearly Review
+  permalink: /yearly-review
+  description: Yearly review tag description
+
+travel:
+  label: Travel
+  permalink: /travel
+  description: Travel tag description
+
+movie:
+  label: Movie
+  permalink: /movie
+  description: Movie tag description

@@ -1,13 +1,13 @@
-yangshun:
-  name: Yangshun Tay
+sean:
+  name: sean Huang
   title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
-  url: https://linkedin.com/in/yangshun
-  image_url: https://github.com/yangshun.png
+  url: https://linkedin.com/in/sean
+  image_url: https://github.com/sean.png
   page: true
   socials:
-    x: yangshunz
-    linkedin: yangshun
-    github: yangshun
+    x: seanz
+    linkedin: sean
+    github: sean
     newsletter: https://www.greatfrontend.com
 
 slorber:
