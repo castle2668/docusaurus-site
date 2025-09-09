@@ -18,12 +18,12 @@ const config: Config = {
   url: 'https://castle2668.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/docusaurus-site/',
+  baseUrl: '/blog/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'castle2668', // Usually your GitHub org/user name.
-  projectName: 'docusaurus-site', // Usually your repo name.
+  projectName: 'blog', // Usually your repo name.
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -54,14 +54,13 @@ const config: Config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
+          // blogSidebarTitle: 'All posts',
+          // blogSidebarCount: 'ALL',
+          blogSidebarCount: 10,
         },
         theme: {
           customCss: './src/css/custom.css',

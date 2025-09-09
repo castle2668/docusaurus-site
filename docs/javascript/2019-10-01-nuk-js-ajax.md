@@ -94,7 +94,7 @@ console.log(2) // #3
 
 題目：撈出鼓山區總共有多少案件
 
-> 1999 API：[https://data.kcg.gov.tw/dataset/open1999](API：https://data.kcg.gov.tw/dataset/open1999)
+> 1999 API：[https://data.kcg.gov.tw/dataset/open1999](https://data.kcg.gov.tw/dataset/open1999)
 
 ```html
 <!-- HTML -->
