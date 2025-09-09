@@ -1,34 +1,44 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+information-ethics:
+  label: Information Ethics
+  permalink: /information-ethics
+  description: Information Ethics tag description
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+japan:
+  label: Japan
+  permalink: /japan
+  description: Japan tag description
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
+korea:
+  label: Korea
+  permalink: /korea
+  description: Korea tag description
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+movie:
+  label: Movie
+  permalink: /movie
+  description: Movie tag description
 
-yearly-review:
-  label: Yearly Review
-  permalink: /yearly-review
-  description: Yearly review tag description
+nuk:
+  label: NUK
+  permalink: /nuk
+  description: NUK tag description
+
+open-data:
+  label: Open Data
+  permalink: /open-data
+  description: Open Data tag description
+
+sdgs:
+  label: SDGs
+  permalink: /sdgs
+  description: SDGs tag description
 
 travel:
   label: Travel
   permalink: /travel
   description: Travel tag description
 
-movie:
-  label: Movie
-  permalink: /movie
-  description: Movie tag description
+yearly-review:
+  label: Yearly Review
+  permalink: /yearly-review
+  description: Yearly review tag description

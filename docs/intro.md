@@ -2,46 +2,56 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 歡迎來到 Sean 的技術筆記
 
-Let's discover **Docusaurus in less than 5 minutes**.
+歡迎來到我的技術學習筆記！這裡記錄了我學習各種程式技術的過程和心得。
 
-## Getting Started
+## 📚 內容分類
 
-Get started by **creating a new site**.
+### 🧮 演算法 (Algorithms)
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+學習各種演算法和資料結構，從基礎的 Fizz Buzz 到複雜的排序演算法。
 
-### What you'll need
+### 🎨 CSS
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+CSS 相關的技術筆記，包括盒模型、動畫效果等。
 
-## Generate a new site
+### 📝 Git
 
-Generate a new Docusaurus site using the **classic template**.
+版本控制系統 Git 的使用方法和最佳實踐。
 
-The classic template will automatically be added to your project after you run the command:
+### 💻 JavaScript
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+JavaScript 語言的核心概念，從基礎語法到進階特性。
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+### ⚛️ React
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+React 框架的學習筆記，包括 Hooks、狀態管理等。
 
-## Start your site
+### 🟢 Vue
 
-Run the development server:
+Vue.js 框架的相關技術文章。
 
-```bash
-cd my-website
-npm run start
-```
+### 🔧 Next.js
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+Next.js 全端框架的學習記錄。
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+### 🖥️ 作業系統
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+作業系統相關的理論知識。
+
+### 🎯 Quasar
+
+Quasar Framework 的使用經驗。
+
+## 🚀 開始探索
+
+您可以從左側的導航選單開始瀏覽，或者直接點擊感興趣的主題開始閱讀。
+
+## 📖 關於這些筆記
+
+這些筆記主要是我在學習過程中的記錄，希望能幫助到同樣在學習這些技術的朋友們。如果您發現任何錯誤或有任何建議，歡迎隨時聯繫我！
+
+---
+
+Happy Coding! 🎉

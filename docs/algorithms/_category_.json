@@ -1,8 +1,8 @@
 {
   "label": "Algorithms",
-  "position": 4,
+  "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "Algorithms and data structure related articles."
+    "description": "5 minutes to learn the most important Docusaurus concepts."
   }
 }

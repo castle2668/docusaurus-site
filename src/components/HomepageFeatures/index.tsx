@@ -1,48 +1,48 @@
-import type {ReactNode} from 'react';
-import clsx from 'clsx';
-import Heading from '@theme/Heading';
-import styles from './styles.module.css';
+import type { ReactNode } from 'react'
+import clsx from 'clsx'
+import Heading from '@theme/Heading'
+import styles from './styles.module.css'
 
 type FeatureItem = {
-  title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
-  description: ReactNode;
-};
+  title: string
+  Svg: React.ComponentType<React.ComponentProps<'svg'>>
+  description: ReactNode
+}
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: '技術學習筆記',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        記錄前端開發的學習歷程，包含 <code>React</code>、<code>Vue</code>、
+        <code>JavaScript</code> 等技術的實戰經驗與心得分享。
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: '演算法與資料結構',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        從基礎的 Fizz Buzz 到複雜的排序演算法，系統性地學習程式設計的核心概念，
+        提升解決問題的能力。
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: '生活與旅遊分享',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        除了技術文章，也分享年度回顧、旅遊心得、電影清單等生活記錄，
+        展現工程師的多面向生活。
       </>
     ),
   },
-];
+]
 
-function Feature({title, Svg, description}: FeatureItem) {
+function Feature({ title, Svg, description }: FeatureItem) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
@@ -53,7 +53,7 @@ function Feature({title, Svg, description}: FeatureItem) {
         <p>{description}</p>
       </div>
     </div>
-  );
+  )
 }
 
 export default function HomepageFeatures(): ReactNode {
@@ -67,5 +67,5 @@ export default function HomepageFeatures(): ReactNode {
         </div>
       </div>
     </section>
-  );
+  )
 }
