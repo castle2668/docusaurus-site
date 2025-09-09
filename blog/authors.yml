@@ -1,25 +1,11 @@
 sean:
-  name: sean Huang
-  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
-  url: https://linkedin.com/in/sean
-  image_url: https://github.com/sean.png
+  name: Sean Huang
+  title: Ex-Wistron Staff Engineer, ICP-SI Senior Frontend Engineer
+  url: https://linkedin.com/in/huang-yung-hsiang
+  image_url: https://avatars.githubusercontent.com/u/45588569?v=4
   page: true
   socials:
-    x: seanz
-    linkedin: sean
-    github: sean
-    newsletter: https://www.greatfrontend.com
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    x: castle2668
+    linkedin: huang-yung-hsiang
+    github: castle2668
+    newsletter: https://castle2668.github.io/docusaurus-site
