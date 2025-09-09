@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic'
 
 const config: Config = {
   title: "Sean's Site",
-  tagline: 'Dinosaurs are cool',
+  tagline: '前端工程師的技術筆記與生活分享',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -18,12 +18,12 @@ const config: Config = {
   url: 'https://castle2668.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/blog/',
+  baseUrl: '/home/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'castle2668', // Usually your GitHub org/user name.
-  projectName: 'blog', // Usually your repo name.
+  projectName: 'home', // Usually your repo name.
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -83,7 +83,7 @@ const config: Config = {
         },
         { to: '/blog', label: 'Blog', position: 'left' },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/castle2668',
           label: 'GitHub',
           position: 'right',
         },
